@@ -1,1 +1,3 @@
-# comparison-of-classification-models-for-brain-tumor-mri-classification
+# Comparison of Classification Models for Braint Tumor MRI Image Classification
+
+Dataset - https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri/code
