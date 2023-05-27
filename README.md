@@ -20,6 +20,7 @@ The dataset contains training and testing folders each of which has 4 classes of
 - Meningioma Tumor
 - No Tumor 
 - Pituitary Tumor
+
 The number of training and test images in each are:
 - Glioma Tumor (train - 826, test - 100)
 - Meningioma Tumor (train - 822, test -	115)
