@@ -6,8 +6,12 @@ In this project, we used images of brain MRI scans from human subjects to predic
 
 ## Authors
 
-- [@mansibm6](https://www.github.com/mansibm6)
-- [@Ashowmick](https://github.com/Ashowmick)
+As part of our undergrad thesis project at AUST, this project was done by -
+
+- Mansib Murslain [@mansibm6](https://www.github.com/mansibm6)
+- Ahasanul Karim [@Ashowmick](https://github.com/Ashowmick)
+- Kazi Akhir Mahmud
+- Saiem Intesar Tamzid
 
 
 ## Dataset
